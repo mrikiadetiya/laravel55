@@ -49,7 +49,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 tambahkan 
 # Laravel Testing Project
 
-![mrikiadetiya](https://github.com/mrikiadetiya/laravel55.git)
+![mrikiadetiya](https://github.com/mrikiadetiya/laravel55.git/actions/workflows/laravel-tests.yml/badge.svg)
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
